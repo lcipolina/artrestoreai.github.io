@@ -54,12 +54,12 @@ hero:
 
 #-------------------------------
 # Projects Settings
-section_projects_title: 👨🏻‍💻 Selected Works
+section_projects_title: Selected Works
 
 
 #-------------------------------
 # Testimonials Section
-section_testimonial_title: 🙂 What Clients Say
+section_testimonial_title:  What Clients Say
 
 testimonial_items:
   - name: "Carla Kenter"
@@ -89,12 +89,12 @@ testimonial_items:
 
 #-------------------------------
 # Blog Section
-section_blog_title: 📚 Read Latest Posts
+section_blog_title: Read Latest Posts
 #-------------------------------
 
 
 # Tags Section
-section_tags_title: ✌️ Explore Topics
+section_tags_title: Explore Topics
 
 
 #-------------------------------
@@ -109,7 +109,7 @@ mailchimp_settings:
 
 #-------------------------------
 # Footer Settings
-footer_description: I’m Aaron, a creative Illustrator & Art Director based in San Francisco. I seek to push the limits of creativity to create high-engaging and memorable interactive experiences.
+footer_description: At the forefront of cultural heritage and fine art preservation, our team uses artificial intelligence to bring new life into timeless masterpieces. 
 
 
 #-------------------------------
